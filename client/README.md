@@ -1,0 +1,1 @@
+I created an interface using React Admin as well as implement a fake REST API with JSON-Server
