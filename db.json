@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "Published": "20-03-2021",
+      "Description": "just dor fun"
+    },
+    {
+      "id": "2",
+      "title": "Post One",
+      "Published": "20-03-2021",
+      "Description": "just dor fun"
+    },
+    {
+      "id": "3",
+      "title": "Post One",
+      "Published": "20-03-2021",
+      "Description": "just for fun"
+    },
+    {
+      "title": "post con",
+      "body": "hello Baby",
+      "publis": " 22-2-2020",
+      "id": "pzn5rg-"
+    },
+    {
+      "title": "Instinct",
+      "body": "Just for CRUD REST",
+      "publishedAt": "2021-03-20",
+      "id": "Z2baH8M"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sourav",
+      "Age": "22",
+      "Experience": "0-2"
+    },
+    {
+      "name": "kalu",
+      "Age": "20",
+      "Experience": "0-1"
+    }
+  ]
+}
